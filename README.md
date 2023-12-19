@@ -127,9 +127,4 @@ Webhook Url: <YOUR-HEROKU-APP-URL>/webhooks/machaao/incoming
 ### Share your bot:
 Visit: ```https://messengerx.io/<your-bot-name>```
 
-
-## Notes / Additional Resources ##
-* Please note that this document isn't meant to be used as a guide for production environment setup.
-* Please note to get a downloadable APK for your character, please contact us at [connect@machaao.com](mailto:connect@machaao.com)
-
-[![Gitter](https://badges.gitter.im/messengerx-io/community.svg)](https://gitter.im/messengerx-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
+ 
